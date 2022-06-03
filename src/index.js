@@ -2,6 +2,6 @@ import "./styles.css";
 
 let names = ["Oche", "Eboh", "Joel"];
 
-let result = names.push("Daddy O");
+let result = names.pop();
 
 console.log(names);
